@@ -1,0 +1,15 @@
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\bin\Debug\net6.0\StaticProj.exe
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\bin\Debug\net6.0\StaticProj.deps.json
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\bin\Debug\net6.0\StaticProj.runtimeconfig.json
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\bin\Debug\net6.0\StaticProj.dll
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\bin\Debug\net6.0\StaticProj.pdb
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\obj\Debug\net6.0\StaticProj.csproj.AssemblyReference.cache
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\obj\Debug\net6.0\StaticProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\obj\Debug\net6.0\StaticProj.AssemblyInfoInputs.cache
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\obj\Debug\net6.0\StaticProj.AssemblyInfo.cs
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\obj\Debug\net6.0\StaticProj.csproj.CoreCompileInputs.cache
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\obj\Debug\net6.0\StaticProj.dll
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\obj\Debug\net6.0\refint\StaticProj.dll
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\obj\Debug\net6.0\StaticProj.pdb
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\obj\Debug\net6.0\StaticProj.genruntimeconfig.cache
+C:\Users\g_ste\Desktop\repos\StaticProj\StaticProj\obj\Debug\net6.0\ref\StaticProj.dll
